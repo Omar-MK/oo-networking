@@ -1,0 +1,160 @@
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: GET / HTTP/1.1
+Response returned: HTTP/1.1 404 Not Found
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Host: localhost:8080
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Upgrade-Insecure-Requests: 1
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Language: en-us
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Encoding: gzip, deflate
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Connection: keep-alive
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: GET /favicon.ico HTTP/1.1
+Response returned: HTTP/1.1 404 Not Found
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Host: localhost:8080
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Connection: keep-alive
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept: */*
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Language: en-us
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Referer: http://localhost:8080/
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:44 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Encoding: gzip, deflate
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: GET / HTTP/1.1
+Response returned: HTTP/1.1 404 Not Found
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Host: localhost:8080
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Upgrade-Insecure-Requests: 1
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Language: en-us
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Encoding: gzip, deflate
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:47 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Connection: keep-alive
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: GET /www HTTP/1.1
+Response returned: HTTP/1.1 404 Not Found
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Host: localhost:8080
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Upgrade-Insecure-Requests: 1
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Language: en-us
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Encoding: gzip, deflate
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Connection: keep-alive
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: GET /favicon.ico HTTP/1.1
+Response returned: HTTP/1.1 404 Not Found
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Host: localhost:8080
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Connection: keep-alive
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept: */*
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Language: en-us
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Referer: http://localhost:8080/www
+Response returned: HTTP/1.1 501 Not Implemented
+Sat Aug 24 23:09:48 EET 2019
+New request from /0:0:0:0:0:0:0:1
+Request data: Accept-Encoding: gzip, deflate
+Response returned: HTTP/1.1 501 Not Implemented
